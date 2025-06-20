@@ -1,5 +1,4 @@
-# ![image](https://github.com/user-attachments/assets/e106cdf2-56a9-4f48-89fe-e684584fe05b) 
-Empty Seat Detection in Coffee Shops
+# 💺 Empty Seat Detection in Coffee Shops
 
 > A Computational Thinking Project Proposal for detecting available seats in a coffee shop environment using video stream analysis and object detection.
 
